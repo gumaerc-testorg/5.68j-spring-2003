@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supplemental reading assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-68j-kinetics-of-chemical-reactions-spring-2003/ff749b711459fbd92f9c70bcbd064df7_qchem.pdf
+file: /media/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/ff749b711459fbd92f9c70bcbd064df7_qchem.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: qchem.pdf
 uid: ff749b71-1459-fbd9-2f9c-70bcbd064df7
