@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1598d072-9397-c34c-77f7-867b964e9975
 resourcetype: Document
 title: num_kin_mod2.pdf
 uid: 683c64e1-ebb8-d526-defb-16d6092eeb7a

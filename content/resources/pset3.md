@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 429e2112-09a7-0694-ae1a-02c36988a3ca
 resourcetype: Document
 title: pset3.pdf
 uid: f96f8345-a691-9d2c-e313-0418dcd633ce

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2e69d22a-85af-a7f9-9f4c-248772376fc8
 resourcetype: Document
 title: signoise.pdf
 uid: 45f22260-ddb1-dd95-3750-4a0e304ef7dd

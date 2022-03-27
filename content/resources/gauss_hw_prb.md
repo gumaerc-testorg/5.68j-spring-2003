@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 429e2112-09a7-0694-ae1a-02c36988a3ca
 resourcetype: Document
 title: gauss_hw_prb.pdf
 uid: 5bfdcdb1-6ac7-c399-0b77-b858c0689e07

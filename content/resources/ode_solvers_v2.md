@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8acaf564-fabb-3e34-7818-9113907b5e28
 resourcetype: Document
 title: ode_solvers_v2.pdf
 uid: 6eec9a36-62f2-abd4-5c83-ee09664bd2d3

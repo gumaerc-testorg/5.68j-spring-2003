@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1598d072-9397-c34c-77f7-867b964e9975
 resourcetype: Document
 title: qchemsummary.pdf
 uid: ca8c35b2-63e2-05ad-8ab6-1b8433d7f972

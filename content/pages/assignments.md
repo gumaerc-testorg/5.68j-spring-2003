@@ -51,7 +51,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
 {{< tdopen >}}
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/gauss_hw_prb))
 
-B3LYP geometry for the transition state ([GEO](/courses/chemistry/5-68j-kinetics-of-chemical-reactions-spring-2003/assignments/MeC2H4TS.geo))
+B3LYP geometry for the transition state ([GEO]({{< baseurl >}}/resources/mec2h4ts))
 
 
 {{< tdclose >}}

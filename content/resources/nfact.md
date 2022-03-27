@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2e69d22a-85af-a7f9-9f4c-248772376fc8
 resourcetype: Document
 title: nfact.pdf
 uid: b24677a4-2035-8d20-a4c4-f300effe67ee
