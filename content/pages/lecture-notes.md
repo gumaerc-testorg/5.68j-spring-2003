@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 1598d072-9397-c34c-77f7-867b964e9975
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -43,7 +48,7 @@ Equilibrium
 Literature Sources of Thermo, Kinetics
 {{< tdclose >}}
 {{< tdopen >}}
-Numerical Solution to Kinetic Equations ([PDF 1]({{< baseurl >}}/resources/num_kin_eq1)) ([PDF 2]({{< baseurl >}}/resources/num_kin_mod2))
+Numerical Solution to Kinetic Equations ({{% resource_link f0addc2f-f04b-3c72-720a-e33193a0599f "PDF 1" %}}) ({{% resource_link 683c64e1-ebb8-d526-defb-16d6092eeb7a "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +118,7 @@ Relation to Quantum Scattering
 Pressure Dependence: Fall-off, Chemical-activation
 {{< tdclose >}}
 {{< tdopen >}}
-A Short Summary of Quantum Chemistry ([PDF]({{< baseurl >}}/resources/qchemsummary-1))
+A Short Summary of Quantum Chemistry ({{% resource_link ca8c35b2-63e2-05ad-8ab6-1b8433d7f972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +130,7 @@ A Short Summary of Quantum Chemistry ([PDF]({{< baseurl >}}/resources/qchemsumma
 Heterogeneous Reactions
 {{< tdclose >}}
 {{< tdopen >}}
-Catalysis Notes ([PDF]({{< baseurl >}}/resources/catalysis))
+Catalysis Notes ({{% resource_link 30fb01b3-0d0a-b07f-d48e-5690a1d3a3aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +168,7 @@ Computer Construction of Chemical Kinetic Models
 Example: Atmospheric Chemistry Models
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetic Model Completeness ([PDF]({{< baseurl >}}/resources/sensitivity))
+Kinetic Model Completeness ({{% resource_link 5bd02099-c74f-37d9-f13c-ff7a6d2bae45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

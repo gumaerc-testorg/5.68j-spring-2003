@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 2e69d22a-85af-a7f9-9f4c-248772376fc8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reference Books and Other Publications
@@ -51,8 +56,8 @@ McClurg, R. B., R. C. Flaga, and W. A. Goddard. "The Hindered Rotor Density-of
 Supplemental Readings
 ---------------------
 
-Hints on Quantum Chemistry ([PDF]({{< baseurl >}}/resources/qchem))
+Hints on Quantum Chemistry ({{% resource_link ff749b71-1459-fbd9-2f9c-70bcbd064df7 "PDF" %}})
 
-Indistinguishable Particles ([PDF]({{< baseurl >}}/resources/nfact))
+Indistinguishable Particles ({{% resource_link b24677a4-2035-8d20-a4c4-f300effe67ee "PDF" %}})
 
-Sample Signal to Noise Calculation ([PDF]({{< baseurl >}}/resources/signoise))
+Sample Signal to Noise Calculation ({{% resource_link 45f22260-ddb1-dd95-3750-4a0e304ef7dd "PDF" %}})

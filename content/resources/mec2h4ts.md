@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for homework problem.
-file: /media/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/023f7296468105a49a16931598765be5_MeC2H4TS.geo
+file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/023f7296468105a49a16931598765be5_MeC2H4TS.geo
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MeC2H4TS.geo
 uid: 023f7296-4681-05a4-9a16-931598765be5
 ---
+Supporting file for homework problem.
+
