@@ -5,6 +5,7 @@ file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/b24677a420358d20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplemental reading assignment.
-

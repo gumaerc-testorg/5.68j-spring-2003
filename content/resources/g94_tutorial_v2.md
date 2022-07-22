@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/491c2e5ad7cbe18de3b84026db429992_g94_tutorial_v2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

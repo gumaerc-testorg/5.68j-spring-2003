@@ -5,6 +5,7 @@ file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/023f7296468105a4
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MeC2H4TS.geo
 uid: 023f7296-4681-05a4-9a16-931598765be5
 ---
 Supporting file for homework problem.
-

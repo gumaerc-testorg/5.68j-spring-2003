@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/6eec9a3662f2abd45c83ee09664bd2d3_ode_solvers_v2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/30fb01b30d0ab07f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout contains a summary of a series of class lectures.
-
