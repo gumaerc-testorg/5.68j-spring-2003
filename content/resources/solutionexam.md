@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Final exam problems with handwritten solutions.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/c3ed6a489ace61edc0885c776f80866b_solutionexam.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/c3ed6a489ace61edc0885c776f80866b_solutionexam.pdf
+file_size: 165448
 file_type: application/pdf
 learning_resource_types:
 - Exams

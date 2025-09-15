@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Supplemental reading assignment.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/b24677a420358d20a4c4f300effe67ee_nfact.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/b24677a420358d20a4c4f300effe67ee_nfact.pdf
+file_size: 52483
 file_type: application/pdf
 learning_resource_types:
 - Readings

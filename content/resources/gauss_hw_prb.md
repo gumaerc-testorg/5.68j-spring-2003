@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Homework problem.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/5bfdcdb16ac7c3990b77b858c0689e07_gauss_hw_prb.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/5bfdcdb16ac7c3990b77b858c0689e07_gauss_hw_prb.pdf
+file_size: 61623
 file_type: application/pdf
 learning_resource_types:
 - Assignments

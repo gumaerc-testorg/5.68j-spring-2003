@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/2c733fcba6396131ec4353f3554b54aa_pset1.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/2c733fcba6396131ec4353f3554b54aa_pset1.pdf
+file_size: 98567
 file_type: application/pdf
 learning_resource_types:
 - Assignments

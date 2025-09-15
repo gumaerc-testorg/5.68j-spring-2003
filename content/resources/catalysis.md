@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This handout contains a summary of a series of class lectures.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/30fb01b30d0ab07fd48e5690a1d3a3aa_catalysis.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/30fb01b30d0ab07fd48e5690a1d3a3aa_catalysis.pdf
+file_size: 96324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

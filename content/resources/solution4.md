@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Handwritten problem set solution.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/f6e902c763b857e457245ca9f3bb09da_solution4.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/f6e902c763b857e457245ca9f3bb09da_solution4.pdf
+file_size: 405871
 file_type: application/pdf
 learning_resource_types:
 - Assignments

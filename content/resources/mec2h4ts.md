@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Supporting file for homework problem.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/023f7296468105a49a16931598765be5_MeC2H4TS.geo
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/023f7296468105a49a16931598765be5_MeC2H4TS.geo
+file_size: 702
 file_type: text/plain
 learning_resource_types:
 - Assignments

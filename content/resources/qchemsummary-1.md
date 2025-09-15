@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This handout contains a summary of a topic covered in this course.
-file: /courses/5-68j-kinetics-of-chemical-reactions-spring-2003/ca8c35b263e205ad8ab61b8433d7f972_qchemsummary.pdf
+file: /ol-ocw-studio-app/courses/5-68j-kinetics-of-chemical-reactions-spring-2003/ca8c35b263e205ad8ab61b8433d7f972_qchemsummary.pdf
+file_size: 141476
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
